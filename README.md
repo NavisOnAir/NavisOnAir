@@ -1,6 +1,5 @@
 - Hi, I’m @NavisOnAir
-- I’m interested in Python
-- I’m currently learning databases like sqlite3
+- I'm learning Python
 
 <!---
 NavisOnAir/NavisOnAir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
