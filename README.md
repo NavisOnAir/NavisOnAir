@@ -1,5 +1,14 @@
-- Hi, I’m @NavisOnAir
-- I'm learning Python
+### My Person
+I'm a german student learning coding mainly in Python and Java. You should not expect clean code.
+
+### Projects
+There is no garentee that the code is working properly but you are free to test it at your own risk.
+- PacMan (finished)
+- OpenGL Graphics Engine
+- Sudoku (finished)
+- Discord Bot
+
+
 
 <!---
 NavisOnAir/NavisOnAir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
