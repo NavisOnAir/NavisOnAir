@@ -1,5 +1,5 @@
 ### My Person
-I'm a german student learning coding mainly in Python and Java. You should not expect clean code.
+I'm a german student. This GitHub repository presents a few of my projects listed below.
 
 ### Projects
 There is no garentee that the code is working properly but you are free to test it at your own risk.
